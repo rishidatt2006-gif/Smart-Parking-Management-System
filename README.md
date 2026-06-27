@@ -373,11 +373,3 @@ Feel free to use, modify, and distribute it in accordance with the license terms
 **Indian Institute of Technology Ropar**
 
 ---
-
-<div align="center">
-
-### ⭐ If you found this project useful, consider giving it a star on GitHub!
-
-**Made with ❤️ using AI, Computer Vision, FastAPI, React, YOLOv8, OR-Tools & Ray**
-
-</div>
