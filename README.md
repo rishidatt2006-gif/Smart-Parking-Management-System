@@ -116,6 +116,8 @@ Instead of assigning parking spots randomly, the system utilizes Google OR-Tools
 │   └── stop.sh
 ├── LICENSE
 └── README.md
+└── Smart Parking Management System pptt.pptx
+└── docker-compose.yml
 ```
 
 ## 🚀 Getting Started (Local Setup)
